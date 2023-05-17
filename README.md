@@ -1,6 +1,6 @@
 # Wordpress plugin
 
-How to create a WordPress plugin 
+How to create a WordPress plugin that let you add customized filters in Woocommerce.
 
 Instructions to manually add a plugin to your WordPress website:
 
