@@ -1,4 +1,5 @@
-# phpplugin
+# Wordpress plugin
+
 How to create a WordPress plugin 
 
 Instructions to manually add a plugin to your WordPress website:
