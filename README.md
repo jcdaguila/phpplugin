@@ -1,4 +1,4 @@
-# Wordpress plugin
+# Wordpress - Woocommerce Customized Filter plugin
 
 How to create a WordPress plugin that let you add customized filters in Woocommerce.
 
